@@ -7,7 +7,7 @@ This is part of a one-year research project that look into online education and 
 
 # Setup
 
-# To-do
+# To-do (For Developer)
 
 - Introducing classical and quantum computing 
 - Setup for python, pennylane, julia and qiskit 
