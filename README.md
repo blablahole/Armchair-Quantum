@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
+
 # A journey to simulate our dream armchairs with quantum knowledge from the ultimate scratch 
 The only way to confront woo-woo science is to do our own investigation. This project is not about simulating an armchair 3D model from Unity or Blender, but a mission to build up field knowledge about quantum computational chemistry from various disciplines. 
 
