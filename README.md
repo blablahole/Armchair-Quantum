@@ -3,7 +3,7 @@ The only way to confront woo-woo science is to do our own investigation. This pr
 
 We will start from learning quantum shifts in classical physics that impacts on computational science and chemistry. Then we will try to design quantum accelatrators (quantum computer designs from current technological progress) for our simulation. Then we will delve into computational chemistry to study many-atom systems.....  (many more sub-knowledge) .... then we can sit in an armchair, sink in a bit, and study again!
 
-This is part of a one-year research project that look into online education and infrastructure for quantum computational chemistry. The project consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborative feedback. 
+This is part of a one-year research project that looks into online education and infrastructure for quantum computational chemistry. The project consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborative feedback. 
 
 # Setup
 
