@@ -1,5 +1,5 @@
 # Blurb
-That said, what does it take to simulate chemical molecules of armchairs with quantum computers?
+That said, what does it take to simulate chemical molecules of actual armchairs with quantum computers?
 
 The only way to confront woo-woo science is to do our own investigation. This project is not about being satisfied by lazy simulations, but a mission to build up field knowledge about quantum computational chemistry from various disciplines. 
 
