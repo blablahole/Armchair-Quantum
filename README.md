@@ -8,7 +8,7 @@ This is part of a one-year research project that looks into online education and
 # Quick Start
 1. Initiate Jupyter Notebook 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
-2. Open `Armchairs` folder and start learning! 
+2. Open `Armchair Quantum` folder and start learning! 
 
 # To-do (My own deadline)
 
