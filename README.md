@@ -1,9 +1,8 @@
-# Blurb
-That said, what does it take to simulate chemical molecules of actual armchairs with quantum computers?
+# So to speak, what does it take to simulate chemical molecules of actual armchairs through quantum computers?
 
-![armchair said nice](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
+![](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
 
-The only way to confront speculations is to do our own investigation. This project is not satisfied by simulation of an armchair 3D model, but it is a mission to build up field knowledge about quantum computational chemistry. 
+The only way to live up with hypothesis is to do our own investigation. This project is not satisfied by simulation of an armchair 3D model, instead, it is a mission to build up field knowledge about quantum computational chemistry. 
 
 We will start from learning quantum shifts in classical physics that impacts on computational science and chemistry. Then we will try to design quantum accelatrators (quantum computer designs from current technological progress) for building quantum algorithms. Then we will delve into computational chemistry to study many-atom systems.....  (many more sub-knowledge) .... then we can wriggle in an armchair of where I procrasinate, sink in a bit, and start studying again.
 
