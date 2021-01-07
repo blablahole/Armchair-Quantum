@@ -3,7 +3,7 @@ This is a one-year research project that investigates online education and infra
 
 # Setup
 
-# To-do (27/12)
+# To-do
 
 - Introducing classical and quantum computing 
 - Setup for python, pennylane, julia and qiskit 
