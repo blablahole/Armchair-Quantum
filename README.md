@@ -6,14 +6,34 @@ We will start from learning quantum shifts in classical physics that impacts on 
 This is part of a one-year research project that looks into online education and infrastructure for quantum computational chemistry. The project consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborative feedback. 
 
 # Tools 
-1. Jupyter Notebook 
-2. Python
-3. Qiskit
+1. Jupyter - a web-based notebook environment for interactive computing
+2. Python - programming language 
+3. Qiskit - IBM cloud quantum computing with Python
 
-# Quick Start
+# Option 1: Quick Start
 1. Initiate Jupyter Notebook 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
 2. Open `Armchair Quantum` folder and start learning! 
+
+# Option 2: Localhost with Jupyter Installation
+
+1. Click the green button `code` above to download this repository to your device.
+
+2. Save the entire folder in a location that is east to find. 
+
+3. Read the installation documentation for [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html).
+The documentation for advanced usage of Jupyter notebook can be found
+[here](https://jupyter-notebook.readthedocs.io/en/latest/).
+
+4. For a local installation, make sure you have
+[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run script:
+
+    $ pip install notebook
+
+5. After installation, launch Jupyter with:
+
+    $ jupyter notebook
+
 
 # To-do (My own deadline)
 
