@@ -1,7 +1,7 @@
 # Blurb
 That said, what does it take to simulate chemical molecules of actual armchairs with quantum computers?
 
-![armchair said nice](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png | width=100)
+![](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
 
 The only way to confront speculations is to do our own investigation. This project is not satisfied by simulation of an armchair 3D model, but it is a mission to build up field knowledge about quantum computational chemistry. 
 
