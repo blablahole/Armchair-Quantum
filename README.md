@@ -1,11 +1,11 @@
 # Blurb
 That said, what does it take to simulate chemical molecules of actual armchairs with quantum computers?
 
-The only way to confront speculations is to do our own investigation. This project is not about being satisfied by simulating an armchair 3D model, but a mission to build up field knowledge about quantum computational chemistry from various disciplines. 
+The only way to confront speculations is to do our own investigation. This project is not satisfied by simulation of an armchair 3D model, but it is a mission to build up field knowledge about quantum computational chemistry. 
 
-We will start from learning quantum shifts in classical physics that impacts on computational science and chemistry. Then we will try to design quantum accelatrators (quantum computer designs from current technological progress) for our simulation. Then we will delve into computational chemistry to study many-atom systems.....  (many more sub-knowledge) .... then we can sit in an armchair, sink in a bit, and study again!
+We will start from learning quantum shifts in classical physics that impacts on computational science and chemistry. Then we will try to design quantum accelatrators (quantum computer designs from current technological progress) for building quantum algorithms. Then we will delve into computational chemistry to study many-atom systems.....  (many more sub-knowledge) .... then we can wriggle in an armchair of where I procrasinate, sink in a bit, and start studying again.
 
-This is part of a one-year research project that looks into online education and infrastructure for quantum computational chemistry. The project consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborative feedback. 
+This is part of a one-year research project that looks into online education and infrastructure for quantum computational chemistry. It consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborations. 
 
 # Tools 
 1. Jupyter - a web-based notebook environment for interactive computing
