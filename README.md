@@ -1,7 +1,7 @@
 # Blurb
 That said, what does it take to simulate chemical molecules of actual armchairs with quantum computers?
 
-The only way to confront speculations is to do our own investigation. This project is not about being satisfied by lazy simulations, but a mission to build up field knowledge about quantum computational chemistry from various disciplines. 
+The only way to confront speculations is to do our own investigation. This project is not about being satisfied by simulating an armchair 3D model, but a mission to build up field knowledge about quantum computational chemistry from various disciplines. 
 
 We will start from learning quantum shifts in classical physics that impacts on computational science and chemistry. Then we will try to design quantum accelatrators (quantum computer designs from current technological progress) for our simulation. Then we will delve into computational chemistry to study many-atom systems.....  (many more sub-knowledge) .... then we can sit in an armchair, sink in a bit, and study again!
 
