@@ -35,7 +35,7 @@ The documentation for advanced usage of Jupyter notebook can be found
     $ jupyter notebook
 
 
-# To-do (My own deadline)
+# Coming up (I'll work harder)
 
 - Introducing classical and quantum computing 
 - Setup for python, pennylane, julia and qiskit 
