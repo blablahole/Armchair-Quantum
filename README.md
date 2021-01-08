@@ -15,7 +15,7 @@ This is part of a one-year research project that looks into online education and
 
 # Option 1: Quick Start
 1. Initiate Jupyter Notebook 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fpdflu%2FArmchair-Quantum%2Ftree%2Fmain%2FArmchair%2520Quantum)
 2. Open `Armchair Quantum` folder and start learning! 
 
 # Option 2: Localhost with Jupyter Installation
