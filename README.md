@@ -17,6 +17,7 @@ This is part of a one-year research project that looks into online education and
 1. Initiate Jupyter Notebook 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
 2. Open `Armchair Quantum` folder and start learning! 
+3. If you would like to use Jupyter Lab, change the end of URL from `/tree` to `/lab` after Jupyter Notebook is loaded.
 
 # Option 2: Localhost with Jupyter Installation
 
