@@ -1,4 +1,4 @@
-# So to speak, what does it take to simulate chemical molecules of actual armchairs through quantum computers?
+# What does it take to simulate chemical molecules of actual armchairs through quantum computers?
 
 ![](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
 
