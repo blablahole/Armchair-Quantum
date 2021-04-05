@@ -32,12 +32,19 @@ The documentation for advanced usage of Jupyter notebook can be found
 4. For a local installation, make sure you have
 [pip installed](https://pip.readthedocs.io/en/stable/installing/) and run script:
 
-    $ pip install notebook
+    $ `pip install notebook`
 
 5. After installation, launch Jupyter with:
 
-    $ jupyter notebook
+    $ `jupyter notebook`
+    
+6. For Jupyter Lab, use this command in terminal:
 
+    $ `sudo -H pip3 uninstall -y jupyterlab && sudo -H pip3 install jupyterlab`
+   
+7. Run Jupyter lab with:
+
+    $ `jupyter lab`
 
 # Coming up (I'll work harder)
 
