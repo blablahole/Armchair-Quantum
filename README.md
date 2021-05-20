@@ -1,4 +1,4 @@
-# This is not a quantum computing for dummies, 
+# Learn quantum computational chemistry without leaving your seat
 
 ![](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
 
