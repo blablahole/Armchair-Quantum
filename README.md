@@ -1,6 +1,7 @@
 # Learn quantum computational chemistry without leaving your seat
 
 ![](https://github.com/pdflu/Armchair-Quantum/blob/main/Under%20Cushions/armnice.png)
+![](https://github.com/pdflu/Armchair-Quantum/blob/main/COUCHIONS/ArmchairQuantum.png)
 
 The only way to live up with hypothesis is to do our own investigation. This project is not satisfied by simulation of an armchair 3D model, instead, it is a mission to build up field knowledge about quantum computational chemistry. 
 
