@@ -16,7 +16,7 @@ This is part of a one-year research project that looks into online education and
 2. Python - programming language 
 3. Qiskit - IBM cloud quantum computing with Python
 
-# Option 1: Quick Start
+# Option 1: Online Compiler with Binder Jupyter
 1. Initiate Jupyter Notebook 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pdflu/Armchair-Quantum/HEAD)
 2. Open `Armchair Quantum` folder and start learning! 
