@@ -11,6 +11,8 @@ We will start from learning quantum shifts in classical physics that impacts on 
 
 This is part of a one-year research project that looks into online education and infrastructure for quantum computational chemistry. It consists of learning materials for citizen science education. The project tends to invite professional researchers and learners from non-technical backgrounds to give feedback regarding content validities and virtual collaborations. 
 
+I would like to thank Qiskit for their phenonmenal materials and contributors for their time. 
+
 # Tools 
 1. Jupyter - a web-based environment for interactive computing
 2. Python - programming language 
